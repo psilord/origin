@@ -1,6 +1,6 @@
 # Origin
 
-A high performance math library useful for making games.
+A native Lisp graphics math library with an emphasis on performance and correctness
 
 ## Overview
 
